@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 st.write(
 	'''
 	# COVID-19: The mathematical reason to wash your hands :sweat_drops::clap:
-	_Over the past few days, Coronavirus has taken the world by storm. As governments rush to take action to minimize the spread of the diseas, I've built this tool to illustrate why these measures – and other measures we can push on an individual basis – are so important.
+	_Over the past few days, Coronavirus has taken the world by storm. As governments rush to take action to minimize the spread of the disease, we – as citizens – also have to stop and think abou the individual contributions we can have to #flattenthecurve.
 	We'll be looking at how staying at home and washing our hands frequently can help us beat the disease – using math!_🤓 
 	## The SIR Method
 	By **moving the slider below**, you can play around with the *Contact rate*, 𝛽 of the virus so see how it would affect the evolution of the disease! You'll find the full explanation below the chart.
