@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 st.write(
 	'''
 	# COVID-19: The mathematical reason to wash your hands :sweat_drops::clap:
-	_Over the past few days, Coronavirus has taken the world by storm. As governments rush to take action to minimize the spread of the disease, we – as citizens – also have to stop and think abou the individual contributions we can have to #flattenthecurve.
+	_Over the past few days, Coronavirus has taken the world by storm. As governments rush to take action to minimize the spread of the disease, we – as citizens – also have to stop and think about the individual contributions we can have to #flattenthecurve.
 	We'll be looking at how staying at home and washing our hands frequently can help us beat the disease – using math!_🤓 
 	## The SIR Method
 	By **moving the slider below**, you can play around with the *Contact rate*, 𝛽 of the virus so see how it would affect the evolution of the disease! You'll find the full explanation below the chart.
@@ -119,8 +119,8 @@ st.write(
 	* The **lower** this value, the **later** the peak of infected individuals. 
 	
 	In other words, a lower 𝛽 gives us **less total impact** and **more time** to prepare and care for the infected. So, how do we do this?
-	* :house_with_garden: We try to stay at home as much as possible. If we all do this, we increase the time between contacts.
-	* :sweat_drops::clap: We keep an eye on our hygiene (a.k.a. properly wash our hands). That way if contacts do ocurr, the probability of contagion is as low as possible.
+	* :house_with_garden: We try to stay at home as much as possible. If we all do this, we increase the time between contacts (lowering 𝛽).
+	* :sweat_drops::clap: We keep an eye on our hygiene (a.k.a. properly wash our hands), avoid touching our face, and try to keep at least 1.5 meters of distance with other people. That way if contacts do ocurr, the probability of contagion is as low as possible.
 
 	**Play around with the slider above to lower 𝛽** and see this concept in action!
 	'''
