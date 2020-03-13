@@ -30,7 +30,7 @@ R0 = 6.49
 Tr = 14
 Tc = Tr/R0
 
-R0Int = st.slider('Average number of people infected by each sick person', 0.5, 6.49, 4.00, 0.05)
+R0Int = st.slider('Average number of people infected by each sick person', 1.85, 6.49, 4.00, 0.05)
 betaInt = R0Int/Tr
 # Contact reasoning rate, beta, and mean recovery rate, gamma, (in 1/days).
 beta, gamma = 1/Tc, 1./Tr
