@@ -126,8 +126,8 @@ st.write(
 	* The **lower** this value, the **later** the peak of infected individuals. 
 	
 	In other words, a lower$\ R_0$ gives us **less total impact** and **more time** to prepare and care for the infected. If we can push$\ R_0$ below **1**, we're in luck! If **each sick person** infects on average **less than one** person, the disease **dies out**.  So, how do we do this?
-	* **Social Distancing :house_with_garden::** We try to stay at home as much as possible. If we all do this, we increase the time between contacts with potential sources of virus. Therefore the chances of infecting people or becoming infected ourselves diminishes and$\ R_0$ increases!
-	* **Hygiene :sweat_drops::clap:: **We keep an eye on our hygiene (i.e. properly wash our hands), avoid touching our face, and try to keep at least 1.5 meters of distance with other people. That way if contacts with a source of virus do ocurr, the probability of contagion is as low as possible, and$\ R_0$ again increases!
+	* **Social Distancing :house_with_garden::** We try to stay at home as much as possible. If we all do this, we increase the time between contacts with potential sources of virus. Therefore the chances of infecting people or becoming infected ourselves diminishes and$\ R_0$ decreases!
+	* **Hygiene :sweat_drops::clap:: **We keep an eye on our hygiene (i.e. properly wash our hands), avoid touching our face, and try to keep at least 1.5 meters of distance with other people. That way if contacts with a source of virus do ocurr, the probability of contagion is as low as possible, and$\ R_0$ again decreases!
 
 	**Play around with the slider above to lower$\ R_0$*** and see this concept in action!
 
