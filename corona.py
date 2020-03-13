@@ -129,7 +129,9 @@ st.write(
 	* **Social Distancing :house_with_garden::** We try to stay at home as much as possible. If we all do this, we increase the time between contacts with potential sources of virus. Therefore the chances of infecting people or becoming infected ourselves diminishes and$\ R_0$ increases!
 	* **Hygiene :sweat_drops::clap:: **We keep an eye on our hygiene (i.e. properly wash our hands), avoid touching our face, and try to keep at least 1.5 meters of distance with other people. That way if contacts with a source of virus do ocurr, the probability of contagion is as low as possible, and$\ R_0$ again increases!
 
-	**Play around with the slider above to lower$\ R_0$** and see this concept in action!
+	**Play around with the slider above to lower$\ R_0$*** and see this concept in action!
+
+	**Note:$\ R_0 = 6.49$ is the upper limit seen in some studies. For reference the average value seen across several studies is closer to 2.2.*
 	'''
 )
 st.write(
@@ -172,7 +174,7 @@ st.write(
 )
 st.write(
 	'''>:warning: *Note: This exercise was performed on **12/03/2020**.
-	By the time you read this, it is likely the fit no longer applies. Also, I'm not an epidemologist, so take it all with a grain of salt and don't forget to follow your local government health and safety regulations!*'''
+	By the time you read this, it is likely the fit no longer applies. Also, I'm not an epidemologist, so take it all with a grain of salt and don't forget to follow your local government health and safety regulations! [Here](https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/) is the code this experiment is inspired by.*'''
 )
 st.write(
 '''
