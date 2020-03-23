@@ -135,7 +135,7 @@ st.write(
 	'''
 )
 st.write(
-	'> ### :warning: The effects of social distancing measures on the disease is seen with a delay due to the time it takes for the disease to manifes, and (unfortunately) kill. Now that you have seen how fast it grows, I hope you see that the sooner you start taking measures, the better! Start today!'
+	'> ### :warning: The effects of social distancing measures on the disease is seen with a **delay** due to the time it takes for the disease to manifest, and (unfortunately) kill. Now that you have seen how fast it grows, I hope you see that the sooner you start taking measures, the better! Start today!'
 )
 st.write(
 	'''
