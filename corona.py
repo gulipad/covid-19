@@ -135,7 +135,7 @@ st.write(
 	'''
 )
 st.write(
-	'> ### :warning: The sooner you start taking measures, the better! Start today!'
+	'> ### :warning: The effects of social distancing measures on the disease is seen with a delay due to the time it takes for the disease to manifes, and (unfortunately) kill. Now that you have seen how fast it grows, I hope you see that the sooner you start taking measures, the better! Start today!'
 )
 st.write(
 	'''
@@ -173,7 +173,7 @@ st.write(
 	, 6.49, 'which seemed to adjust quite well to the growth numbers of the first 15 days in Madrid, and happens to coincide with the upper limits of [some studies](https://www.medicalnewstoday.com/articles/coronavirus-may-spread-faster-than-who-estimate#Higher-estimates-than-WHO-predict)'
 )
 st.write(
-	'''>:warning: *Note: This exercise was performed on **12/03/2020**.
+	'''>:warning: *Note: This exercise was performed on **March 12th, 2020**.
 	By the time you read this, it is likely the fit no longer applies. Also, I'm not an epidemologist, so take it all with a grain of salt and don't forget to follow your local government health and safety regulations! [Here](https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/) is the code this experiment is inspired by.*'''
 )
 st.write(
